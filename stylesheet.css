@@ -1,0 +1,42 @@
+h1 {
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    color:orange;
+}
+
+h2 {
+    background-color: orange;
+    text-align:left;
+    font-weight:600;
+    color:darkblue;
+}
+
+p {
+    background-color: black;
+    text-align: justify;
+    font-weight:500;
+    color: orange;
+}
+
+ol {
+    background-color:coral;
+    text-align:center;
+    font-weight:bold;
+    color:black;
+}
+
+div {
+    background-color: navy;
+}
+
+img {
+    border:50px;border:solid;color:orange;
+}
+
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
