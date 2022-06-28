@@ -1,3 +1,7 @@
+html {
+    background-color: hotpink;
+}
+
 h1 {
     background-color: black;
     text-align: center;
@@ -9,21 +13,68 @@ h2 {
     background-color: orange;
     text-align:left;
     font-weight:600;
-    color:darkblue;
+    color:black;
+}
+
+h3 {
+    text-align:center;
+    font-size:x-large;
+    font-weight:bolder;
+    color:orange;
 }
 
 p {
     background-color: black;
-    text-align: justify;
+    text-align: center;
     font-weight:500;
     color: orange;
 }
 
-ol {
-    background-color:coral;
-    text-align:center;
+p.BobRoss {
+    font-size:large;
     font-weight:bold;
+}
+
+p.Happy {
+    font-size:large;
+    font-weight:bold;
+}
+
+p.Tree {
+    font-size:large;
+    font-weight:bold;
+}
+
+ul {
+    background-color:black;
+    text-align:center;
+    font-size:larger;
+    font-weight:bold;
+    color:orange;
+}
+
+li {
+    background-color:red;
+    text-align:justify;
     color:black;
+}
+
+li.tomato {
+font-size:medium;
+font-weight:500;
+color:lime;
+}
+
+li.potato {
+    font-size:medium;
+    font-weight:500;
+    color:gold;
+}
+
+li.beanbag {
+    font-size:medium;
+    font-weight:500;
+    color:orange;
 }
 
 div {
@@ -31,7 +82,7 @@ div {
 }
 
 img {
-    border:50px;border:solid;color:orange;
+    border:250px;border:solid;color:orange;
 }
 
 .center {
